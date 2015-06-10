@@ -1,0 +1,8 @@
+ {
+	"name": "desarrolloweb/probando-composer-lunes",
+	"require":{
+		"php": " >= 5.4",
+		"dompdf/dompdf": "dev-master"
+		
+	}
+}
